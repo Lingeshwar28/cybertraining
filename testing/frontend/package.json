@@ -1,0 +1,12 @@
+{
+  "name": "cybershield-frontend-tests",
+  "private": true,
+  "scripts": {
+    "mock": "node mock-server.js",
+    "test": "node e2e.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.21.5",
+    "playwright": "^1.45.0"
+  }
+}

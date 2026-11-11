@@ -1,0 +1,15 @@
+package com.cybersecurity.cybertraining.repository;
+
+import com.cybersecurity.cybertraining.model.Module;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.List;
+
+public interface ModuleRepository extends JpaRepository<Module, Long> {
+
+    List<Module> findByOwnerIdOrderByCreatedAtAsc(Long ownerId);
+
+    List<Module> findByPublishedTrueOrderByCreatedAtAsc();
+
+    List<Module> findAllByOrderByCreatedAtAsc();
+}

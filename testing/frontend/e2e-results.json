@@ -1,0 +1,297 @@
+[
+  {
+    "name": "pending user login blocked with message",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "register rejects weak password client-side",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "registration submitted to API",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "forgot-password request sent",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "no browser storage (login page)",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "no JS errors (login page)",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "wrong 2FA code rejected",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "2FA login reaches learner dashboard",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "no JS errors (2FA)",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "first sign-in forces 2FA setup with QR code",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "learner sees published module from API",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "due-soon notification badge shown",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "page refresh keeps the user signed in",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "training content shown",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "YouTube link embedded as iframe",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "answer marked correct by server",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "wrong answer marked incorrect and explained",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "result shows server score 50% and pass",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "certificate view opens after passing",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "certificate listed",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "quiz history listed on profile",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "profile saved via API",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "profile shows 2FA enabled",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "2FA cannot be turned off when required",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "restart resets progress via API",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "no browser storage (learner)",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "sign out ends server session (refresh stays signed out)",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "no JS errors (learner)",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "new module created as Draft",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "cannot publish without questions",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "quiz saved via API",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "module published",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "module edit persisted",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "javascript: video link rejected",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "video link saved",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "certificate saved",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "cannot delete module with learner attempts",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "learner progress tab lists learners",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "owner security window shows 2FA on, no turn-off",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "no browser storage (owner)",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "no JS errors (owner)",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "overview shows pending work banner",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "approve registration via API",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "reject registration via API",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "search filters users",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "role filter works",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "status filter works",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "2FA badge visible in list",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "role change saved",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "deactivate account",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "admin resets a user's 2FA",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "approve password reset",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "admin module list from API with owner",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "audit log shows entries",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "no browser storage (admin)",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "no JS errors (admin)",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "approved new password accepted (2FA step shown)",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "after admin reset, user must set up 2FA again",
+    "ok": true,
+    "extra": ""
+  },
+  {
+    "name": "deactivated account cannot sign in",
+    "ok": true,
+    "extra": ""
+  }
+]
